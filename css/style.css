@@ -7,5 +7,7 @@
 @import url(./utilidades/componentes.css);
 /*home*/
 @import url(./home/introducao.css);
-/*bici*/
+/*bicicletas*/
 @import url(./bicicletas/bicicletas.css);
+/*tecnologia*/
+@import url(./home/tecnologia.css);
