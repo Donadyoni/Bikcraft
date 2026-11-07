@@ -11,3 +11,7 @@
 @import url(./bicicletas/bicicletas.css);
 /*tecnologia*/
 @import url(./home/tecnologia.css);
+/*parceiros*/
+@import url(/css/home/parceiros.css);
+/*depoimento*/
+@import url(/css/home/depoimento.css);
