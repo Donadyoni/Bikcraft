@@ -15,3 +15,7 @@
 @import url(/css/home/parceiros.css);
 /*depoimento*/
 @import url(/css/home/depoimento.css);
+/*seguros*/
+@import url(/css/seguros/seguros.css);
+/*footer*/
+@import url(/css/global/footer.css)
