@@ -8,6 +8,7 @@
 /*home*/
 @import url(./home/introducao.css);
 /*bicicletas*/
+@import url(./bicicletas/bicicletas-lista.css);
 @import url(./bicicletas/bicicletas.css);
 /*tecnologia*/
 @import url(./home/tecnologia.css);
@@ -17,5 +18,9 @@
 @import url(/css/home/depoimento.css);
 /*seguros*/
 @import url(/css/seguros/seguros.css);
+@import url(/css/seguros/vantagens.css);
+@import url(/css/seguros/perguntas.css);
 /*footer*/
-@import url(/css/global/footer.css)
+@import url(/css/global/footer.css);
+/*termos*/
+@import url(/css/termos/termos.css);
